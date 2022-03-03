@@ -22,8 +22,6 @@ MacHeight = 92
 Nivoi = []
 Filler = pygame.image.load("Images\\Filler1.png")
 # NIVO JEDAN #
-Nivo1 = [[]]
-Nivoi.append(Nivo1)
 Pitanje1 = pygame.image.load("Images\\Pitanje1.png")
 Resenja1A = pygame.image.load("Images\\Resenja1A.png")
 Resenja1B = pygame.image.load("Images\\Resenja1B.png")
